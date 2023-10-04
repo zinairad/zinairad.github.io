@@ -2,7 +2,14 @@
 h1 {
     color: pink;
     background-color: #fff0d4;
+    text-align: center;
+    text-decoration: underline;
+    font-style: oblique;
+    font-variant: small-caps;
+    font-weight: lighter;
+    text-shadow: 0px 0px;
 }
 body {
     background-color: #fff0d4;
+    font-weight: 600;
 }
